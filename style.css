@@ -32,17 +32,7 @@ h3{
   height: 250px;
   width: 250px;
 }
-.footer{
-  background-color: black;
-  height: 50px;
-  text-align: center;
-  margin-bottom: 0;
-  margin-top: 22%;
 
-}
-footer p{
-  margin-bottom: 0;
-}
 button{
   position: relative;
   top: 30rem;
